@@ -7,11 +7,11 @@
         "ios": "2.2081"
     },
     "version": "1.0.0",
-    "id": "MalikHw.shader-resolution-config",
-    "name": "shader-resolution-config",
-    "developer": "MalikHw",
-    "description": "desc.",
-    "tags": ["yes", "yeah"],
+    "id": "malikhw47.shader-resolution-config",
+    "name": "shader resolution config",
+    "developer": "MalikHw47",
+    "description": "Reduce shader rendering resolution for better performance on lower-end devices",
+    "tags": ["gameplay", "performance"],
     "links": {
         "source": "https://github.com/MalikHw/shader-resolution-config",
         "community": "https://discord.gg/G9bZ92eg2n"
