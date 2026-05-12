@@ -16,5 +16,22 @@
         "source": "https://github.com/MalikHw/shader-resolution-config",
         "community": "https://discord.gg/G9bZ92eg2n"
     },
-    "settings": {}
+    "settings": {
+        "resolution-multiplier": {
+            "name": "Resolution multiplier",
+            "description": "multiplier for shader resolution",
+            "type": "double",
+            "default": 1.0,
+            "min": 0.1,
+            "max": 1.0,
+            "control": {
+                "slider": true,
+                "arrows": false,
+                "big-arrows": false,
+                "arrow-step": 0.05,
+                "big-arrow-step": 0.1,
+                "slider-step": 0.05
+            }
+        }
+    }
 }
