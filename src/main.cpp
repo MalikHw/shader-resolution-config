@@ -1,4 +1,6 @@
 #include <Geode/Geode.hpp>
+#include <Geode/modify/ShaderLayer.hpp>
+
 using namespace geode::prelude;
 
 class $modify(ShaderLayer) {
